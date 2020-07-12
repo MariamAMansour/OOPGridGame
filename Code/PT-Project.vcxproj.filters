@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="CMUgraphicsLib">
+      <UniqueIdentifier>{b6ef5278-5399-4c20-8631-3a47fa20276d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMUgraphicsLib\JPEG">
+      <UniqueIdentifier>{74881736-22be-4b44-90b6-09a29eb1aa85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GUI Classes">
+      <UniqueIdentifier>{03fd4e0d-92e0-4271-bb9b-d6e9f21ec35f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GUI Classes\Enemies">
+      <UniqueIdentifier>{b8cc7fa3-9c3a-4ea9-8e9f-c20b5058738b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GUI Classes\Obstcales">
+      <UniqueIdentifier>{f9a3f31a-ddc5-4338-aafa-3c021ba5f4a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GUI Classes\Weapons">
+      <UniqueIdentifier>{9a181c55-48b8-49d3-ae32-271389a5fb76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Moving Cells">
+      <UniqueIdentifier>{993adb1b-e6f5-4951-a441-ab84b1ccd65b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CMUgraphicsLib\auxil.cpp">
+      <Filter>CMUgraphicsLib</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\CMUgraphics.cpp">
+      <Filter>CMUgraphicsLib</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\image.cpp">
+      <Filter>CMUgraphicsLib</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpegload.c">
+      <Filter>CMUgraphicsLib</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\keyqueue.cpp">
+      <Filter>CMUgraphicsLib</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\mousequeue.cpp">
+      <Filter>CMUgraphicsLib</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\windowinput.cpp">
+      <Filter>CMUgraphicsLib</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jcomapi.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jcparam.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdapimin.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdapistd.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdatasrc.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdcoefct.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdcolor.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jddctmgr.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdhuff.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdinput.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdmainct.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdmarker.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdmaster.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdmerge.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdphuff.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdpostct.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdsample.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jdtrans.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jerror.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jidctflt.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jidctfst.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jidctint.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jidctred.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jmemmgr.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jmemnobs.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jquant1.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jquant2.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\jpeg\jutils.c">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClCompile>
+    <ClCompile Include="CMUgraphicsLib\colors.cpp">
+      <Filter>CMUgraphicsLib</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Moving Cells</Filter>
+    </ClCompile>
+    <ClCompile Include="Grid.cpp">
+      <Filter>GUI Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Cell.cpp">
+      <Filter>GUI Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="GUI.cpp">
+      <Filter>GUI Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerCell.cpp">
+      <Filter>GUI Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="EmptyCell.cpp">
+      <Filter>GUI Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="GoalCell.cpp">
+      <Filter>GUI Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="ObstacleCell.cpp">
+      <Filter>GUI Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyCell.cpp">
+      <Filter>GUI Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="AddLifeCell.cpp">
+      <Filter>GUI Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOverCell.cpp">
+      <Filter>GUI Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy1.cpp">
+      <Filter>GUI Classes\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy2.cpp">
+      <Filter>GUI Classes\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy3.cpp">
+      <Filter>GUI Classes\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy4.cpp">
+      <Filter>GUI Classes\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy5.cpp">
+      <Filter>GUI Classes\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="Obstacle1.cpp">
+      <Filter>GUI Classes\Obstcales</Filter>
+    </ClCompile>
+    <ClCompile Include="Obstacle2.cpp">
+      <Filter>GUI Classes\Obstcales</Filter>
+    </ClCompile>
+    <ClCompile Include="AddHealthCell.cpp">
+      <Filter>GUI Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="StartPointCell.cpp">
+      <Filter>GUI Classes\Obstcales</Filter>
+    </ClCompile>
+    <ClCompile Include="CoinCell.cpp">
+      <Filter>GUI Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="WeaponCell.cpp">
+      <Filter>GUI Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="BombWeapon.cpp">
+      <Filter>GUI Classes\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="SlowDownWeapon.cpp">
+      <Filter>GUI Classes\Weapons</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemies.cpp">
+      <Filter>Moving Cells</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CMUgraphicsLib\auxil.h">
+      <Filter>CMUgraphicsLib</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\CMUgraphics.h">
+      <Filter>CMUgraphicsLib</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\colors.h">
+      <Filter>CMUgraphicsLib</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\error.h">
+      <Filter>CMUgraphicsLib</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\image.h">
+      <Filter>CMUgraphicsLib</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpegload.h">
+      <Filter>CMUgraphicsLib</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\keyqueue.h">
+      <Filter>CMUgraphicsLib</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\mousequeue.h">
+      <Filter>CMUgraphicsLib</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\version.h">
+      <Filter>CMUgraphicsLib</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\windowinput.h">
+      <Filter>CMUgraphicsLib</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jconfig.h">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jdct.h">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jdhuff.h">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jerror.h">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jinclude.h">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jmemsys.h">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jmorecfg.h">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jpegint.h">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jpeglib.h">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClInclude>
+    <ClInclude Include="CMUgraphicsLib\jpeg\jversion.h">
+      <Filter>CMUgraphicsLib\JPEG</Filter>
+    </ClInclude>
+    <ClInclude Include="DEFS.h" />
+    <ClInclude Include="Player.h">
+      <Filter>Moving Cells</Filter>
+    </ClInclude>
+    <ClInclude Include="Grid.h">
+      <Filter>GUI Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell.h">
+      <Filter>GUI Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI.h">
+      <Filter>GUI Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerCell.h">
+      <Filter>GUI Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="EmptyCell.h">
+      <Filter>GUI Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="GoalCell.h">
+      <Filter>GUI Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="ObstacleCell.h">
+      <Filter>GUI Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyCell.h">
+      <Filter>GUI Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="AddLifeCell.h">
+      <Filter>GUI Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOverCell.h">
+      <Filter>GUI Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy1.h">
+      <Filter>GUI Classes\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy2.h">
+      <Filter>GUI Classes\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy3.h">
+      <Filter>GUI Classes\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy4.h">
+      <Filter>GUI Classes\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy5.h">
+      <Filter>GUI Classes\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="Obstacle1.h">
+      <Filter>GUI Classes\Obstcales</Filter>
+    </ClInclude>
+    <ClInclude Include="Obstacle2.h">
+      <Filter>GUI Classes\Obstcales</Filter>
+    </ClInclude>
+    <ClInclude Include="AddHealthCell.h">
+      <Filter>GUI Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="StartPointCell.h">
+      <Filter>GUI Classes\Obstcales</Filter>
+    </ClInclude>
+    <ClInclude Include="CoinCell.h">
+      <Filter>GUI Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="WeaponCell.h">
+      <Filter>GUI Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="BombWeapon.h">
+      <Filter>GUI Classes\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="SlowDownWeapon.h">
+      <Filter>GUI Classes\Weapons</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemies.h">
+      <Filter>Moving Cells</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>
