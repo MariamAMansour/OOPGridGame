@@ -3,7 +3,9 @@ This project was made as a part of the course Object Oriented Programming using 
 
 ## Documents:
 Documentation/Project Requirements: The requirements requested by the project and met with our code.
+
 Documentation/Task Sheet: The tasks done by each collaborator
+
 Documentation/ClassDescriptions: The descriptions and images used for each class created.
 
 ## To run:
@@ -13,5 +15,6 @@ Open Code/PT-Project.sln and run.
 Ahmed Bayoumy
 
 Mariam Ashraf
+
 
 Please contact us for any questions or queries.
