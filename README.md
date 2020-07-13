@@ -14,7 +14,7 @@ Open Code/PT-Project.sln and run.
 ## Developers:
 Ahmed Bayoumy: s-ahmed.bayoumy@zewailcity.edu.eg
 
-Mariam Ashraf: mzmmsa@gmail.com
+Mariam Ashraf: mariam.ashraf.abdelsalam@gmail.com
 
 
 Please contact us for any questions or queries.
