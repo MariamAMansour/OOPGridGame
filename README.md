@@ -12,9 +12,9 @@ Documentation/ClassDescriptions: The descriptions and images used for each class
 Open Code/PT-Project.sln and run.
 
 ## Developers:
-Ahmed Bayoumy
+Ahmed Bayoumy: s-ahmed.bayoumy@zewailcity.edu.eg
 
-Mariam Ashraf
+Mariam Ashraf: mzmmsa@gmail.com
 
 
 Please contact us for any questions or queries.
